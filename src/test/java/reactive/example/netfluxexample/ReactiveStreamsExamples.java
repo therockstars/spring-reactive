@@ -1,15 +1,16 @@
 package reactive.example.netfluxexample;
 
 import org.junit.Test;
-import reactor.core.Disposable;
 import reactor.core.publisher.Flux;
 
 import java.util.Arrays;
-import java.util.Collection;
 import java.util.List;
 import java.util.function.Consumer;
-import java.util.stream.Collector;
 import java.util.stream.Collectors;
+
+/**
+ * Reactive Programming using Spring 5 Reactive Streams
+ */
 
 public class ReactiveStreamsExamples {
     //List<String> dogs = Arrays.asList("ABC", "Vizsla", "Lab", "Golden", "GSP", "Poodle", "Yorkie", "Mutt", "ABC");

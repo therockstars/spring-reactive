@@ -5,6 +5,9 @@ import org.junit.Test;
 import java.util.*;
 import java.util.stream.Collectors;
 
+/**
+ * Reactive programming using Java8 Streams
+ */
 public class Java8StreamExamples {
 
     List<String> dogs = Arrays.asList("ABC", "Vizsla", "Lab", "Golden", "GSP", "Poodle", "Yorkie", "Mutt", "ABC");
